@@ -1,0 +1,10 @@
+Portugal Espanha 1
+Espanha Franca 3
+Franca Belgica 1
+Franca Suica 1
+Suica Italia 2
+Italia Franca 2
+Suica Alemanha 2
+Alemanha Franca 4
+Mexico USA 3
+USA Canada 2
